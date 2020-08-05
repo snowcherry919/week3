@@ -397,7 +397,7 @@
         bottom: 31px;
     }
 
-    .joint__pic--bottomEnd::after {
+    /* .joint__pic--bottomEnd::after {
         position: absolute;
         content: '';
         background: url(../img/right.svg);
@@ -405,7 +405,7 @@
         height: 48px;
         right: 17px;
         bottom: 59px;
-    }
+    } */
 
     .joint__item2 {
         padding-bottom: 479px;
