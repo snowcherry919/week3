@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,OADG,CACH,CAAC,AAAC,CACE,eAAe,CAAE,IAAI,CACxB,AAHL,AAII,OAJG,CAIH,EAAE,AAAC,CACC,KAAK,CAAE,GAAG,CACb,AANL,AAOI,OAPG,CAOH,EAAE,AAAC,CACC,SAAS,CAAE,IAAI,CAClB",
+    "sources": [
+        "../scss/all2.scss"
+    ],
+    "names": [],
+    "file": "all2.min.css"
+}
